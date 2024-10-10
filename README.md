@@ -36,8 +36,6 @@ Commercial buildings and infrastructure are essential components of urban develo
 
 ![Landscape](https://github.com/user-attachments/assets/36871448-4809-4bc2-b775-ae3b0d83c3b1)
 
-
-
 Property Qualification Score (PQS) can be adapted to evaluate a new town or a developing section of a town. When assessing a larger area like a new town, the PQS would include similar criteria, but it may require aggregating scores from multiple zones within the area to get a holistic view. For instance, you would evaluate the accessibility of the main roads and transit options that would service the town, as well as the availability and quality of infrastructure such as water, power, and internet across different sections. Additionally, since zoning and land use plans might still be in the developmental stages, the scoring would take into account both current and proposed zoning laws, potential changes, and how these align with the town’s projected growth and purpose.
 
 Environmental and physical factors remain essential for a new town or section of town, especially when considering topography, natural hazards, and any environmental restrictions that could affect development. Since market value data may be limited in emerging areas, prospective property valuations would be based on comparable developments in similar nearby areas. Future infrastructure projects play a key role in the PQS for such areas, as they directly impact long-term viability. In new towns, planned amenities, parks, and other public facilities contribute significantly to the overall quality, enhancing the scores in the neighborhood and community categories. The adaptability of PQS for different areas makes it useful for determining a new town’s potential before extensive development begins.
