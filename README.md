@@ -54,6 +54,19 @@ Key categories for PQS in city management might include accessibility, infrastru
 To ensure the PQS system reflects city priorities, each criterion should be scored on a scale (such as 1 to 10) and weighted according to its importance. If improving public transit is a city goal, for example, then accessibility criteria could be weighted higher. In this way, the PQS system supports holistic city management, enabling officials to visualize each area’s strengths and weaknesses and compare districts systematically. By regularly updating PQS scores with new data on market values, environmental resilience, and infrastructure quality, city officials can dynamically adjust plans and investments in response to changing needs, maximizing the long-term sustainability and prosperity of urban areas.
 
 #
+### Fused 3D Parts
+
+![Alignment](https://github.com/user-attachments/assets/67a22d90-a81d-4514-bf2f-a25d405b0760)
+
+In his YouTube video, The Backyard Scientist experiments with creating metal sculptures by melting steel BBs. Inspired by natural fulgurites, he aims to form shapes resembling frozen lightning. After some trial and error, he uses a welder with argon gas and adds silicon bronze wire to strengthen the creations. Despite some failures, he ultimately succeeds, showcasing unique, organic-looking sculptures that are solidified with epoxy for added durability and glow-in-the-dark effects. He concludes the video with tips on replicating his method.
+
+Alignment:
+
+A method for aligning the steel BBs with precision is could be used for achieving clean, well-defined forms before welding them together. The process begins with arranging the BBs into the desired shape, often within a container or mold that helps hold them in place. Ensuring a uniform layout across the area helps in evenly distributing the welding heat, which creates a more cohesive structure. As the balls are delicately placed, the arrangement is carefully monitored to prevent any shifting or gaps, as this could impact the final outcome once welded.
+
+Once the BBs are positioned in the desired configuration, welding them together in a single pass ensures that they fuse simultaneously, creating a seamless bond. This method prevents uneven cooling or inconsistent welding patterns that could weaken the structure. Precision welding, especially in larger or more complex forms, requires a steady hand and often involves using a foot pedal to control the heat output finely. By welding all the BBs together at once, the finished piece holds a consistent texture and a visually compelling, cohesive form, resembling an organic shape like a frozen lightning strike.
+
+#
 
 ![Natural Carved Stone Car Garage](https://github.com/user-attachments/assets/21ba4b80-ccba-4996-afbe-d74855afd1a0)
 
