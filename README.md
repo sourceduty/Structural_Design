@@ -1,5 +1,5 @@
 ![Rusty Googie-Style Concept House](https://github.com/user-attachments/assets/7d975ad5-5a91-4f11-a7e3-cff58cbc0c04)
-![The Line](https://github.com/user-attachments/assets/ced019fe-1cac-45b9-b2f3-7f9a3d788ac0)
+![ALDRIDGE](https://github.com/user-attachments/assets/903e2f94-520f-4167-b782-c855fdf6d774)
 
 > Structural design, engineering and architecture for houses, buildings and infrastructure.
 
@@ -24,6 +24,8 @@ House design combines functionality, aesthetics, and sustainability to create sp
 ![Architecture](https://github.com/user-attachments/assets/b909d2e1-cf65-4e6e-8aa8-5e231cf9f47a)
 
 Commercial buildings and infrastructure are essential components of urban development, providing spaces for business operations, transportation, and public services. These structures are typically designed to accommodate high volumes of people, goods, and services, making functionality and safety key considerations in their design. The structural integrity of commercial buildings is paramount, often relying on steel and concrete frameworks that ensure durability under heavy loads and extended use. In addition to these considerations, the aesthetic design of commercial buildings is increasingly important, as companies seek to create visually striking structures that align with their brand identity and attract customers. Modern techniques, such as prefabrication and the use of smart technologies, are enhancing the efficiency of construction and the operation of these buildings.
+
+![The Line](https://github.com/user-attachments/assets/ced019fe-1cac-45b9-b2f3-7f9a3d788ac0)
 
 #
 ### 3D Design
