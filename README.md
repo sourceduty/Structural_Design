@@ -1,5 +1,5 @@
 ![Rusty Googie-Style Concept House](https://github.com/user-attachments/assets/7d975ad5-5a91-4f11-a7e3-cff58cbc0c04)
-![ALDRIDGE](https://github.com/user-attachments/assets/903e2f94-520f-4167-b782-c855fdf6d774)
+![Slides](https://github.com/user-attachments/assets/6f3d9a68-9e6e-483f-bec9-9bed9f0dc58b)
 
 > Structural design, engineering and architecture for houses, buildings and infrastructure.
 
@@ -70,8 +70,9 @@ A method for aligning the steel BBs with precision is could be used for achievin
 Once the BBs are positioned in the desired configuration, welding them together in a single pass ensures that they fuse simultaneously, creating a seamless bond. This method prevents uneven cooling or inconsistent welding patterns that could weaken the structure. Precision welding, especially in larger or more complex forms, requires a steady hand and often involves using a foot pedal to control the heat output finely. By welding all the BBs together at once, the finished piece holds a consistent texture and a visually compelling, cohesive form, resembling an organic shape like a frozen lightning strike.
 
 #
-
 ![Natural Carved Stone Car Garage](https://github.com/user-attachments/assets/21ba4b80-ccba-4996-afbe-d74855afd1a0)
+#
+![ALDRIDGE](https://github.com/user-attachments/assets/903e2f94-520f-4167-b782-c855fdf6d774)
 
 #
 
