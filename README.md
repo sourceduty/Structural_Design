@@ -90,7 +90,7 @@ In addition to concrete, other materials, such as engineered stones and advanced
 Overall, the science of permanent state materials emphasizes the importance of material selection, design, and engineering to create products that not only endure but also maintain their functionality and aesthetics over extended periods. By focusing on these durable solutions, industries can significantly reduce waste, lower maintenance costs, and promote a more sustainable approach to construction and product development.
 
 #
-### Wearing Into Permanence 
+### Wearing into Permanence 
 
 The concept of "wearing in and not wearing out" encapsulates the essence of permanent state material science, emphasizing the transition of materials to a stable, enduring condition rather than succumbing to degradation over time. This approach focuses on designing materials that not only adapt to their environment but also improve in performance with use. For instance, in construction, high-performance concrete can "wear in" as it undergoes various environmental stressors, developing enhanced strength and resilience without the typical wear and tear associated with traditional concrete. This process allows the material to reach an optimal state where it can withstand harsh conditions while maintaining its structural integrity, ultimately extending the lifespan of buildings and infrastructure.
 
