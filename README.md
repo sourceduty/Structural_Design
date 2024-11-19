@@ -48,6 +48,13 @@ If airports were easier to access on foot, more people might casually visit for 
 3D modeling and 3D structural design have revolutionized the architecture and engineering fields, enabling more precise and complex designs. In 3D modeling, architects and engineers use advanced software to create detailed digital representations of buildings and structures, allowing for a more thorough analysis of how different elements will interact. This technology supports structural design by simulating loads, stress points, and material behaviors, ensuring the safety and stability of the structure before construction begins. Additionally, 3D modeling enables the visualization of intricate architectural elements and facilitates collaboration between different stakeholders, including clients, architects, and engineers. With the rise of Building Information Modeling (BIM), 3D structural design integrates every aspect of the construction process, from initial design to lifecycle management, ensuring that buildings are not only visually stunning but also structurally sound and sustainable​.
 
 #
+### Breaking Traditions
+
+![Demolition](https://github.com/user-attachments/assets/f84db216-11a8-4aeb-a01c-824fe0f7c234)
+
+Without any traditions your are dancing to the beat of your own drum, embracing the unconventional paths and diverging from the norms. It's about challenging the status quo, daring to explore uncharted territories, and refusing to conform to societal expectations. Being untraditional is a celebration of individuality, creativity, and innovation. It's about finding beauty in the unexpected, discovering new perspectives, and breaking free from the constraints of conventionality. Embracing the untraditional is a journey of self-discovery, where one can fully express their unique identity and make their mark on the world in their own extraordinary way.
+
+#
 ### Fused 3D Parts
 
 ![Alignment](https://github.com/user-attachments/assets/67a22d90-a81d-4514-bf2f-a25d405b0760)
