@@ -90,6 +90,8 @@ Overall, the science of permanent state materials emphasizes the importance of m
 #
 ### Wearing into Permanence 
 
+![Z-Bunker](https://github.com/user-attachments/assets/b6af8cf6-fc76-4cc3-a01f-3f9d4e4a4584)
+
 The concept of "wearing in and not wearing out" encapsulates the essence of permanent state material science, emphasizing the transition of materials to a stable, enduring condition rather than succumbing to degradation over time. This approach focuses on designing materials that not only adapt to their environment but also improve in performance with use. For instance, in construction, high-performance concrete can "wear in" as it undergoes various environmental stressors, developing enhanced strength and resilience without the typical wear and tear associated with traditional concrete. This process allows the material to reach an optimal state where it can withstand harsh conditions while maintaining its structural integrity, ultimately extending the lifespan of buildings and infrastructure.
 
 Moreover, this philosophy encourages the development of materials that prioritize durability and sustainability over disposability. Instead of focusing on quick fixes or frequent replacements, scientists and engineers are creating advanced composites and polymers that are engineered to resist wear while adapting positively to usage. For example, self-healing materials can address minor damage autonomously, thereby "wearing in" and repairing themselves when needed. This leads to a significant reduction in resource consumption and waste generation, as products remain functional and visually appealing for longer periods. By embracing the principle of wearing in and not wearing out, material science paves the way for innovative solutions that benefit both the environment and the economy, fostering a more sustainable future in construction and manufacturing.
@@ -100,12 +102,14 @@ Moreover, this philosophy encourages the development of materials that prioritiz
 ![ALDRIDGE](https://github.com/user-attachments/assets/903e2f94-520f-4167-b782-c855fdf6d774)
 
 #
-
 > Alex: "*I enjoy designing architecture and I might build something in the future.*"
 
 #
-
 Sourceduty offers <a href="https://github.com/sourceduty/Sourceduty_Services">services</a> and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
+
+#
+![Ramp](https://github.com/user-attachments/assets/caeba193-054c-4b1b-9845-a1628a483be9)
+
 
 #
 ### Related Links
