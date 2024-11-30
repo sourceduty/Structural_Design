@@ -101,7 +101,8 @@ Moreover, this philosophy encourages the development of materials that prioritiz
 
 ![Prism Town](https://github.com/user-attachments/assets/ce879d75-d13f-4c94-9e0e-d297ab84483b)
 
-The image combines the polished, futuristic "Prism Town" gateway with the humorous "Merry Crisis" meme person, famous for their viral mispronunciation of "Merry Christmas." The pronunciation of "Merry Christmas" as "meh-ree kry-sis" (merry crisis) or "meh-ree krys-ler" (merry Chrysler) exaggerates the casual or chaotic tone of holiday greetings in a funny, relatable way. Sometimes it’s also misheard as "meh-ree kriss-mun," with the "Christmas" shortened or slurred for comedic effect. This creates a stark contrast with the sleek design and idealized setting of "Prism Town," where everything seems polished and orderly. The juxtaposition of this modern scene with the casual, meme-worthy expression on the right adds a layer of absurdity, poking fun at the chaos and imperfection of real-life humor versus the perfection of an imagined world.
+
+The image humorously blends the sleek "Prism Town" gateway with the viral "Merry Crisis" meme person, creating a clash of styles and tones. Adding to the humor is the similarity in pronunciation between "Prism" (prih-zum) and "Prison" (prih-zun), which could cause viewers to initially misinterpret the futuristic gateway as leading to something less glamorous, like a prison. This misreading mirrors the comedic mispronunciation of "Merry Christmas" as "meh-ree kry-sis," "meh-ree krys-ler," or "meh-ree kriss-mun" in the meme. The combination of a modern, idealized "Prism Town" and the casual, chaotic energy of the "Merry Crisis" person underscores the absurdity and adds an ironic layer of humor, where the polished setting contrasts with the imperfection and relatability of meme culture.
 
 #
 ![Natural Carved Stone Car Garage](https://github.com/user-attachments/assets/21ba4b80-ccba-4996-afbe-d74855afd1a0)
