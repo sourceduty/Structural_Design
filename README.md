@@ -22,6 +22,7 @@ House design combines functionality, aesthetics, and sustainability to create sp
 ### Commercial Architecture
 
 ![Architecture](https://github.com/user-attachments/assets/b909d2e1-cf65-4e6e-8aa8-5e231cf9f47a)
+![Architecture](https://github.com/user-attachments/assets/e96e94f2-42a0-42af-9faa-8e04564eb31a)
 
 Commercial buildings and infrastructure are essential components of urban development, providing spaces for business operations, transportation, and public services. These structures are typically designed to accommodate high volumes of people, goods, and services, making functionality and safety key considerations in their design. The structural integrity of commercial buildings is paramount, often relying on steel and concrete frameworks that ensure durability under heavy loads and extended use. In addition to these considerations, the aesthetic design of commercial buildings is increasingly important, as companies seek to create visually striking structures that align with their brand identity and attract customers. Modern techniques, such as prefabrication and the use of smart technologies, are enhancing the efficiency of construction and the operation of these buildings.
 
