@@ -25,6 +25,8 @@ House design combines functionality, aesthetics, and sustainability to create sp
 
 Influencers stage elaborate photoshoots, featuring extravagant gowns, tiaras, and regal poses, often against backdrops of castles that are either digitally rendered or temporary structures resembling event props. These faux-royal personas frequently adopt whimsical titles, adding a humorous twist to their content. While the trend showcases impressive design and editing skills, it has also drawn attention for its playful absurdity, with followers pointing out obvious inconsistencies like poorly edited backgrounds or makeshift materials. This phenomenon highlights how social media continues to blur the lines between imagination and reality for entertainment.
 
+![Mean Girls](https://github.com/user-attachments/assets/329fdada-7c39-41c8-9023-eec2c6d2a3b2)
+
 #
 ### Commercial Architecture
 
