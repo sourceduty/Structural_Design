@@ -19,6 +19,13 @@ Furthermore, Sourceduty leverages modern construction techniques like prefabrica
 House design combines functionality, aesthetics, and sustainability to create spaces that reflect personal preferences while meeting practical needs. Key aspects of house design include layout planning, material selection, and environmental considerations. The layout of a house is fundamental in defining the flow and usability of spaces, ensuring that rooms are appropriately positioned for both privacy and convenience. For example, open floor plans are popular for their ability to create a sense of spaciousness and facilitate social interaction. Additionally, material choices, from wood and stone to innovative composites, influence not only the durability and appearance of a home but also its environmental footprint.
 
 #
+### Fake Kingdoms
+
+![Fake](https://github.com/user-attachments/assets/e7e81595-e5e0-4c94-a328-91fa5d5cff89)
+
+Influencers stage elaborate photoshoots, featuring extravagant gowns, tiaras, and regal poses, often against backdrops of castles that are either digitally rendered or temporary structures resembling event props. These faux-royal personas frequently adopt whimsical titles, adding a humorous twist to their content. While the trend showcases impressive design and editing skills, it has also drawn attention for its playful absurdity, with followers pointing out obvious inconsistencies like poorly edited backgrounds or makeshift materials. This phenomenon highlights how social media continues to blur the lines between imagination and reality for entertainment.
+
+#
 ### Commercial Architecture
 
 ![Architecture](https://github.com/user-attachments/assets/b909d2e1-cf65-4e6e-8aa8-5e231cf9f47a)
